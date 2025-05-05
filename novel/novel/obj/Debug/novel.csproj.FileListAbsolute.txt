@@ -1,0 +1,7 @@
+C:\Users\nikit\source\repos\novel\novel\obj\Debug\novel.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\novel\novel\obj\Debug\novel.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\novel\novel\bin\Debug\novel.exe.config
+C:\Users\nikit\source\repos\novel\novel\bin\Debug\novel.exe
+C:\Users\nikit\source\repos\novel\novel\bin\Debug\novel.pdb
+C:\Users\nikit\source\repos\novel\novel\obj\Debug\novel.exe
+C:\Users\nikit\source\repos\novel\novel\obj\Debug\novel.pdb
