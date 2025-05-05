@@ -1,0 +1,7 @@
+C:\Users\nikit\source\repos\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe.config
+C:\Users\nikit\source\repos\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe
+C:\Users\nikit\source\repos\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\nikit\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.exe
+C:\Users\nikit\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.pdb
