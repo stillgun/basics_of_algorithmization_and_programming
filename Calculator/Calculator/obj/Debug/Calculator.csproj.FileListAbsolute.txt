@@ -1,7 +1,0 @@
-C:\Users\nikit\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\nikit\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\nikit\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\nikit\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
-C:\Users\nikit\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\nikit\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\nikit\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
