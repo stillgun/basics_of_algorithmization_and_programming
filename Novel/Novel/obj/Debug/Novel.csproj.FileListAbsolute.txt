@@ -1,7 +1,0 @@
-C:\Users\nikit\source\repos\Novel\Novel\bin\Debug\Novel.exe.config
-C:\Users\nikit\source\repos\Novel\Novel\bin\Debug\Novel.exe
-C:\Users\nikit\source\repos\Novel\Novel\bin\Debug\Novel.pdb
-C:\Users\nikit\source\repos\Novel\Novel\obj\Debug\Novel.csproj.AssemblyReference.cache
-C:\Users\nikit\source\repos\Novel\Novel\obj\Debug\Novel.csproj.CoreCompileInputs.cache
-C:\Users\nikit\source\repos\Novel\Novel\obj\Debug\Novel.exe
-C:\Users\nikit\source\repos\Novel\Novel\obj\Debug\Novel.pdb
