@@ -1,7 +1,0 @@
-C:\Users\nikit\source\repos\Guess_the_number\Guess_the_number\bin\Debug\Guess_the_number.exe.config
-C:\Users\nikit\source\repos\Guess_the_number\Guess_the_number\bin\Debug\Guess_the_number.exe
-C:\Users\nikit\source\repos\Guess_the_number\Guess_the_number\bin\Debug\Guess_the_number.pdb
-C:\Users\nikit\source\repos\Guess_the_number\Guess_the_number\obj\Debug\Guess_the_number.csproj.AssemblyReference.cache
-C:\Users\nikit\source\repos\Guess_the_number\Guess_the_number\obj\Debug\Guess_the_number.csproj.CoreCompileInputs.cache
-C:\Users\nikit\source\repos\Guess_the_number\Guess_the_number\obj\Debug\Guess_the_number.exe
-C:\Users\nikit\source\repos\Guess_the_number\Guess_the_number\obj\Debug\Guess_the_number.pdb
