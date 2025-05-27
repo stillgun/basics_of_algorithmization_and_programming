@@ -1,16 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Массивы
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            /*
+                        Теоретические задания
             Вопрос 1:
             Console.WriteLine("Введите сумму вклада:");
             decimal deposit = Convert.ToDecimal(Console.ReadLine());
@@ -75,8 +63,4 @@ namespace Массивы
                 Console.WriteLine("Введенные числа недопустимы. Оба числа должны быть от 0 до 10.");
             }
         }
-             */
 
-        }
-    }
-}
