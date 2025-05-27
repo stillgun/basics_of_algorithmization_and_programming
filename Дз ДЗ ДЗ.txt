@@ -1,0 +1,31 @@
+Дз ДЗ ДЗ
+Теоретические вопросы
+Задание 1: 6
+Задание 2: 2
+Задание 3: ошибка
+Задание 4: 3
+Практические вопросы
+Задание 1:
+
+int[,,] mas = {
+	{ { 1, 2 }, { 3, 4 } },
+	{ { 4, 5 }, { 6, 7 } },
+	{ { 7, 8 }, { 9, 10 } },
+	{ { 10, 11 }, { 12, 13 } }
+};
+
+Console.Write("{");
+for (int i = 0; i < 4; i++)
+{
+	Console.Write("{");
+	for (int j = 0; j < 2; j++)
+	{
+    	Console.Write("{");
+    	Console.Write(mas[i,j,0] + " , " + mas[i,j,1]);
+    	Console.Write("}");
+    	if (j < 1) Console.Write(" , ");
+	}
+	Console.Write("}");
+	if (i < 3) Console.Write(" , ");
+}
+Console.WriteLine("}");
