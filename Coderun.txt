@@ -28,7 +28,6 @@ class Program
         int b = int.Parse(Console.ReadLine());
         int c = int.Parse(Console.ReadLine());
 
-        // Проверяем условие треугольника
         if (a + b > c && a + c > b && b + c > a)
         {
             Console.WriteLine("YES");
